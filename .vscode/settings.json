@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "data_extract/01pdf2html/pdf2html/src/main/java/xfp/pdf/run"
+    ],
+    "go.alternateTools": {
+
+    },
+    "go.toolsGopath": "/root/.gocache/gotools", // tools的绝对路径
+        "go.goroot": "/usr/local/go",
+        "go.gopath": "/root/.gocache/gotools",
+        "terminal.integrated.env.linux": {
+            "GO111MODULE": "on"
+        }
+    
+}

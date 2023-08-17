@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Pdf2htmlV2",
+            "request": "launch",
+            "mainClass": "xfp.pdf.run.Pdf2htmlV2",
+            "projectName": "XFileParser"
+        },
+        {
+            "type": "java",
+            "name": "Pdf2html",
+            "request": "launch",
+            "mainClass": "xfp.pdf.run.Pdf2html",
+            "projectName": "XFileParser"
+        },
+        {
+            "type": "java",
+            "name": "pdf2html",
+            "request": "launch",
+            "projectName": "/root/FinanceChatGLM/data_extract/01pdf2html/pdf2html",
+            "mainClass": "xfp.pdf.run.Pdf2html.main",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "pdf2html",
+            "request": "launch",
+            "projectName": "/root/FinanceChatGLM/data_extract/01pdf2html/pdf2html",
+            "mainClass": "xfp.pdf.run.Pdf2htmlV2.main",
+            "console": "integratedTerminal"
+        }
+    ]
+}
